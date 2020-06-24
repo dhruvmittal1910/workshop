@@ -1,0 +1,11 @@
+
+    .frame {
+        width: 100%;
+        
+        border: 3px solid #eee;
+        background: #eee;
+        margin: auto;
+        padding: 15px 25px;
+        border-radius: 13px;
+        
+      }
